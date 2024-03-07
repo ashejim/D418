@@ -30,11 +30,11 @@ The admin of the main project can then review, edit, and implement the changes -
 1. Login into GitHub and Navigate to the repo you want to fork. For this site click: [⭐ repo](https://github.com/ashejim/D418).
 2. In the top-right corner, click **Fork**.
 3. In the drop-down select **Create a new fork**.
-   > <img src= "./url_images/fork-2-3.png">
+   > <img src= "https://github.com/ashejim/D418/blob/main/url_images/fork-2-3.png?raw=true">
 4. Choose yourself as the owner and (optionally) give a different name.
-   > <img src= "./url_images/fork-4.png">
+   > <img src= "https://github.com/ashejim/D418/blob/main/url_images/fork-4.png?raw=true">
 5. You can now find it under **Repostiories**
-   > <img src= "./url_images/fork-5.png">
+   > <img src= "https://github.com/ashejim/D418/blob/main/url_images/fork-5.png?raw=true">
 
 You now own a copy of the main repository and it can be [synced with the orginal project (upstream)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) so your version can always be up-to-date, but it won't mess up the main project.
 
@@ -42,12 +42,12 @@ You now own a copy of the main repository and it can be [synced with the orginal
 
 Making changes will be easier on your computer (local) using your favorite editor.
 
-1. From your GitHub, navigate to the repository forked from above.
+1. From your GitHub online page, navigate to the repository forked from above. For example,
    `https://github.com/<your_GitHub_username>/D418`
 2. Click `<> Code`
    > <img src= "https://github.com/ashejim/D418/blob/main/url_images/github_code_button.png?raw=true">
 3. Copy the url
-   > <img src= "./url_images/github_url_button.png"> 
+   > <img src= "https://github.com/ashejim/D418/blob/main/url_images/github_url_button.png?raw=true"> 
 4. Open a terminal, e.g., <kbd>![Windows Key](./url_images/winkeylogo.png) Win</kbd> + `"powershell"` + <kbd>ENTER</kbd>
 5. Navigate to wherever you want to keep the repo on your computer,
    `cd myGitHubRepos`
