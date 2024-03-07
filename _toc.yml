@@ -1,0 +1,15 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: task1
+- file: task2
+- file: ci_page
+- file: jupyterbook_getting_started
+  sections:
+  - file: how_to_contribute
+  - file: markdown
+  - file: notebooks
+  - file: markdown-notebooks
