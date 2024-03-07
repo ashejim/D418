@@ -13,8 +13,7 @@ This guide assumes you have already installed [Python, Git, jupyter-book](LINK),
 
 ### If you have admin access
 
-Whoever set up the repo can provide write access.
-
+Whoever setup the repo can provide write access.
 
 ### Forking: Anyone can contribute
 
