@@ -1,9 +1,9 @@
-# How to be a collabortor
+# How to be a collaborator
 
 ## The Easy Way
 
 Open an issue on the [⭐ repo](https://github.com/ashejim/D418) (upper right-corner).
-    > <img src="https://github.com/ashejim/C964/blob/main/url_images/github-open-issue.png?raw=true" height="75px" />
+> <img src="https://github.com/ashejim/C964/blob/main/url_images/github-open-issue.png?raw=true" height="75px" />
 
 ## The Pro Way
 
@@ -13,7 +13,8 @@ This guide assumes you have already installed [Python, Git, jupyter-book](LINK),
 
 ### If you have admin access
 
-Whoever setup the repo can provide write access.
+Whoever set up the repo can provide write access.
+
 
 ### Forking: Anyone can contribute
 
