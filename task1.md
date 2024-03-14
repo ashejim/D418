@@ -28,4 +28,4 @@ The topic approval form must be signed by a D418 Capstone Instructor. Forms with
 
 ### Task 1 Example:
 
-> [Task 1 D418 Example](LINK)
+> [Task 1 D418 Example](./resources/D418_Task 1_Example.pdf)
