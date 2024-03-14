@@ -18,7 +18,7 @@ Once you’ve decided on a topic, complete the following Capstone Project Approv
 
 ### Task 1 - Capstone Project Approval Form
 
-> [Network Engineering Capstone Project Approval Form](LINK)
+> [Network Engineering Capstone Project Approval Form](./resources/Network Engineering Capstone Project Approval Form.docx)
 
 Email this completed form directly to your Capstone Instructor for approval. Once approved, you will receive a signed document in PDF format that you will upload as part of Task 1.
 
