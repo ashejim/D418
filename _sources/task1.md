@@ -18,7 +18,7 @@ Once you’ve decided on a topic, complete the following Capstone Project Approv
 
 ### Task 1 - Capstone Project Approval Form
 
-> [Network Engineering Capstone Project Approval Form](LINK)
+> [Network Engineering Capstone Project Approval Form](./resources/Network%20Engineering%20Capstone%20Project%20Approval%20Form.docx)
 
 Email this completed form directly to your Capstone Instructor for approval. Once approved, you will receive a signed document in PDF format that you will upload as part of Task 1.
 
@@ -28,4 +28,4 @@ The topic approval form must be signed by a D418 Capstone Instructor. Forms with
 
 ### Task 1 Example:
 
-> [Task 1 D418 Example](LINK)
+> [Task 1 D418 Example](./resources/D418_Task%201_Example.pdf)
